@@ -1,0 +1,6 @@
+{
+  "name": "NovaVPN",
+  "description": "Premium dark-glass, neon-accented VPN application offering lightning-fast, secure connections worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

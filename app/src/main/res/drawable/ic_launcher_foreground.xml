@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered Shield Visual Layer -->
+    <!-- Center of canvas is (54, 54) -->
+    <path
+        android:fillColor="#4F7CFF"
+        android:pathData="M54,24 L28,34 L28,58 C28,76 45,90 54,94 C63,90 80,76 80,58 L80,34 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 L34,38 L34,58 C34,72 47,82 54,86 C61,82 74,72 74,58 L74,38 Z" />
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M54,42 C49.5,42 46,45.5 46,50 C46,53.5 48.5,56.5 51,57.5 L51,70 L57,70 L57,57.5 C59.5,56.5 62,53.5 62,50 C62,45.5 58.5,42 54,42 Z M54,47 C55.7,47 57,48.3 57,50 C57,51.7 55.7,53 54,53 C52.3,53 51,51.7 51,50 C51,48.3 52.3,47 54,47 Z" />
+</vector>
